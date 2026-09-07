@@ -24,16 +24,14 @@ utilizando diferentes estruturas de dados e conceitos de programação em C.
 
 ## ⚙️ Funcionalidades
 
-- Cadastrar livros
-- Cadastrar usuários
-- Emprestar livros
-- Devolver livros
-- Buscar livros por título
-- Listar livros
-- Listar usuários
-- Gerenciar fila de espera
-- Exibir histórico de ações
-- Desfazer a última ação com Undo
+- 📚 Cadastro de livros
+- 👤 Cadastro de usuários
+- 🔄 Empréstimo e devolução de livros
+- 🔎 Busca de livros por título
+- 📋 Listagem de livros e usuários
+- ⏳ Fila de espera para livros emprestados
+- 📜 Histórico de ações
+- ↩️ Sistema de Undo para desfazer a última ação
 
 ## 🧠 Estruturas de Dados
 
