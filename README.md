@@ -1,4 +1,3 @@
-# sistema-gerenciamento-biblioteca-c
 
 # 📚 Sistema de Gerenciamento de Biblioteca
 
